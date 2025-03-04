@@ -1,0 +1,11 @@
+console.log("om namah shivay...")
+console.log("om namah shivay...")
+console.log("om namah shivay...")
+
+console.log("output deu to For loop")
+
+var cnt : number = 0
+for(cnt=1 ; cnt <=5; cnt++)
+{
+    console.log("Jay Ganesha...")
+}
