@@ -1,0 +1,19 @@
+var No = 11
+console.log(No)
+console.log("value of variable is:"+No)
+console.log("Datatype of variable:"+typeof No) //number
+
+var No2 : number = 11
+console.log(No2)
+console.log("value of variable is:"+No2)
+console.log("Datatype of variable:"+typeof No2)//number
+
+var No3
+console.log(No3)
+console.log("value of variable is:"+No3)
+console.log("Datatype of variable:"+typeof No3)// undefined
+No3 = false
+console.log(No3)
+console.log("value of variable is:"+No3)
+console.log("Datatype of variable:"+typeof No3)// boolean
+
