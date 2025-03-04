@@ -1,19 +1,24 @@
-var No = 11
+var No 
 console.log(No)
-console.log("value of variable is:"+No)
-console.log("Datatype of variable:"+typeof No) //number
+console.log(typeof No)
 
-var No2 : number = 11
-console.log(No2)
-console.log("value of variable is:"+No2)
-console.log("Datatype of variable:"+typeof No2)//number
+No =21
+console.log(No)
+console.log(typeof No)
 
-var No3
-console.log(No3)
-console.log("value of variable is:"+No3)
-console.log("Datatype of variable:"+typeof No3)// undefined
-No3 = false
-console.log(No3)
-console.log("value of variable is:"+No3)
-console.log("Datatype of variable:"+typeof No3)// boolean
+var Data =true
+console.log(Data)
+console.log(typeof Data)
+
+var Temp = 90.7856
+console.log(Temp)
+console.log(typeof Temp)
+
+var str = "A"
+console.log(str)
+console.log(typeof (str))
+
+str ='Marvellous'
+console.log(str)
+console.log(typeof (str))
 
